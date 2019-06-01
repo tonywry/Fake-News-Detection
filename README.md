@@ -5,9 +5,10 @@ This is a project of Text Analysis task on Fake News Detection on a Kaggle Datas
 This Project has been rewarded as the first-runner-up of the HKU Data Mining Hackathon Competition 2019.
 
 ### Methods used in this project
-Code for Method 1/2 can be found in file - 
-Code for Method 3 can be found in file - 
-Code for Method 4 can be found in file - 
+Code for Method 1/2 - ;
+Code for Method 3 - ;
+Code for Method 4 - ;
+
 
 #### 1. Models based on TF / TF-IDF
         Extract the TF Matrix by normal tokenizing/stemmiing methods, building traditional ML/DL Models on the matrix, models include:
