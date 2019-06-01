@@ -5,9 +5,11 @@ This is a project of Text Analysis task on Fake News Detection on a Kaggle Datas
 This Project has been rewarded as the first-runner-up of the HKU Data Mining Hackathon Competition 2019.
 
 ### Methods used in this project
-Code for Method 1/2 - ;
-Code for Method 3 - ;
-Code for Method 4 - ;
+Code for Method 1/2 - TFIDF_EMBD.ipynb
+
+Code for Method 3 - Google_Scrap.ipynb / Google_Features_Models.ipynb
+
+Code for Method 4 - Cluster_Models.ipynb
 
 
 #### 1. Models based on TF / TF-IDF
@@ -31,7 +33,8 @@ Code for Method 4 - ;
 
 #### 3. Data Extension by Google search
         1) Assume real news can be spread widely across internet/media, while Fake news not
-        2) Applied Google API to search each statement and scraped down the title/url of google searching result (sample data in Folder "Google_Scraped"/"URL_Scraped"). 
+        2) Applied Google API to search each statement and scraped down the title/url of google searching result 
+           sample data in Folder "Google_Scraped"/"URL_Scraped"
         3) Extract feature from the scraped data by following assumtions
            (a) More records/valid links can be found for a true news (num_scrap)
            (b) Scraped titles would be similar to each other for a true news (score)
@@ -47,7 +50,6 @@ Code for Method 4 - ;
 #### 4. Seperate Models across clusters
         1) Clustering by Word Embedding
         2) Models on each cluster
-
 
 
 
