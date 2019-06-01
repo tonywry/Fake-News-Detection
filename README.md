@@ -37,7 +37,7 @@ Code for Method 4 - Cluster_Models.ipynb
         1) Assume real news can be spread widely across internet/media, while Fake news not
         2) Applied Google API to search each statement and scraped down the title/url of google searching result 
            sample data in Folder "Google_Scraped"/"URL_Scraped"
-        3) Extract feature from the scraped data by following assumtions
+        3) Extract feature from the scraped data by following assumptions
            (a) More records/valid links can be found for a true news (num_scrap)
            (b) Scraped titles would be similar to each other for a true news (score)
            (c) Scraped titles for a true news tend to share more common terms with original title (common_term)
