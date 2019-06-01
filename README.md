@@ -4,6 +4,8 @@ This is a project of Text Analysis task on Fake News Detection on a Kaggle Datas
 
 This Project has been rewarded as the first-runner-up of the HKU Data Mining Hackathon Competition 2019.
 
+![Screenshot 2019-06-01 at 7 16 31 PM](https://user-images.githubusercontent.com/29504448/58748514-932dbb80-84ac-11e9-92e5-a9df185a132b.png)
+
 ### Methods used in this project
 Code for Method 1/2 - TFIDF_EMBD.ipynb
 
